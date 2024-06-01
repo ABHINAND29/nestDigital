@@ -1,0 +1,15 @@
+.sec {
+    width: auto;
+    height: 500px;
+}
+h2 {
+    color: blue;
+    font-size: 26px;
+    font-family: sans-serif;
+
+}
+h3 {
+    font-size: 14px;
+    color: black;
+    padding: 0px 0px 20px;
+}
